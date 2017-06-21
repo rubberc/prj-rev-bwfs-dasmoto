@@ -1,0 +1,36 @@
+.banner {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+
+
+}
+h2{
+  font-weight: bold;
+}
+.frames {
+  background-color: mediumspringgreen;
+}
+.brushes {
+  background-color: lightcoral;
+}
+.paint {
+  background-color: skyblue;
+}
+h1 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+.backgroundimage {
+  background-image: url(img src="https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg" alt="tile pattern");
+  opacity: 0.5;
+  width:1200px;
+  height:150px;
+}
+.price {
+  color: blue;
+}
